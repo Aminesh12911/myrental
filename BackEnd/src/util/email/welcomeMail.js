@@ -81,7 +81,7 @@ const sendWelcomeEmail = async (newUser) => {
             <p>The Team</p>
         </div>
         <div class="footer">
-            <p>Developed by Praveer</p>
+            <p>Developed by Shubham</p>
         </div>
     </div>
 </body>
