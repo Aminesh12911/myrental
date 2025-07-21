@@ -70,9 +70,8 @@ A centralized application with tailored features for both **Landlords** and **Re
 
 ## 👥 Team 404 Found
 
-- Ankit Singh Chauhan  
-- Praveer Kumar  
-- Ayush Gupta  
+- shubham Patel
+- Praveer 
 
 Project submitted for **CodeClash 2.0**
 

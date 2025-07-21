@@ -12,7 +12,7 @@ const Developer = () => {
         >
           <img
 
-            src="images/myPhoto3.jpg"
+            src="images/shubham.jpg"
             alt="Developer"
             className="developer rounded-lg shadow-lg w-80 h-100 object-cover hover:scale-105 transition-transform duration-300"
           />
@@ -24,7 +24,7 @@ const Developer = () => {
           data-aos="fade-left"
         >
           <h1 className="text-3xl font-bold text-gray-800 mb-2">
-            Praveer Kumar
+            Shubham Patel
           </h1>
           <p className="text-indigo-600 text-lg font-semibold mb-4">
             Full-Stack Developer
@@ -37,7 +37,7 @@ const Developer = () => {
           </p>
           <div className="flex justify-center lg:justify-start space-x-6">
             <a
-              href="https://github.com/kumarpraveer143"
+              href="https://github.com/shubhampatel20"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-800 hover:text-gray-600 transition-colors"
@@ -45,7 +45,7 @@ const Developer = () => {
               <FaGithub size={30} />
             </a>
             <a
-              href="https://www.linkedin.com/in/praveerdeveloper/"
+              href="https://www.linkedin.com/in/shubham-patel-aaaa86286"
               target="_blank"
               rel="noopener noreferrer"
               className="text-blue-700 hover:text-blue-500 transition-colors"
@@ -53,7 +53,7 @@ const Developer = () => {
               <FaLinkedin size={30} />
             </a>
             <a
-              href="https://x.com/kumarpraveer3?t=s-r4AAAheb9JaG9UBN70og&s=09"
+              href="https://x.com/shubhampateI?t=xtCtnT_WgKW6pIMbDv58tA&s=08git"
               target="_blank"
               rel="noopener noreferrer"
               className="text-blue-500 hover:text-blue-400 transition-colors"
